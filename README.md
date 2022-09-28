@@ -9,10 +9,15 @@
 
 The following resources can be found in the **"resources"** folder on the project root.
 
-- Course data (JSON)
 - Brand Colours
 - Desktop & Mobile UI Design
 - Logo
+
+### Data
+
+An example of the type of data that will be used can be found in **"/src/data/"**.
+
+- Course data (JSON)
 
 ### Getting Started
 
